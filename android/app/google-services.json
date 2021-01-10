@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "862003601390",
+    "firebase_url": "https://uber-babdd.firebaseio.com",
+    "project_id": "uber-babdd",
+    "storage_bucket": "uber-babdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862003601390:android:7d24a5f63bdd44bf4bf8ff",
+        "android_client_info": {
+          "package_name": "br.aprendizagem.uber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862003601390-r6nanje5gof1pave28hquulv8nn9n8rf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.aprendizagem.uber",
+            "certificate_hash": "d9ec6b8e2949da0514766f3c2583a3138fa2e674"
+          }
+        },
+        {
+          "client_id": "862003601390-p5b3au1v8ngch68pajmaisef1re0dbvc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXy7KSHjgoZdl485qpF0LxgV5DGM0Hs2o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862003601390-p5b3au1v8ngch68pajmaisef1re0dbvc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
